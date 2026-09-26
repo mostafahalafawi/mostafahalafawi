@@ -1,4 +1,4 @@
-![Mostafa Halafawi: Senior Data & Performance Analyst](images/banner.png)
+![Mostafa Halafawi: Senior Data & Performance Analyst](banner.png)
 
 ### Hi, I'm Mostafa 👋
 
@@ -33,12 +33,12 @@ commission and incentive design · cohort and portfolio analysis · executive re
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/mostafahalafawi/payment-merchant-performance-analytics"><img src="images/payment.png" alt="Payment & Merchant Performance Analytics"></a>
+<a href="https://github.com/mostafahalafawi/payment-merchant-performance-analytics"><img src="payment.png" alt="Payment & Merchant Performance Analytics"></a>
 <b><a href="https://github.com/mostafahalafawi/payment-merchant-performance-analytics">Payment & Merchant Performance Analytics</a></b><br>
 <sub>~2M rows of payment data → ETL with data-quality rules, star schema, SQL KPIs, merchant health scoring, gateway incident detection and billing leakage checks. <b>Python · SQL · Power BI</b></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/mostafahalafawi/sales-performance-commission-analytics"><img src="images/sales_commission.png" alt="Sales Performance & Commission Analytics"></a>
+<a href="https://github.com/mostafahalafawi/sales-performance-commission-analytics"><img src="sales_commission.png" alt="Sales Performance & Commission Analytics"></a>
 <b><a href="https://github.com/mostafahalafawi/sales-performance-commission-analytics">Sales Performance & Commission Analytics</a></b><br>
 <sub>CRM/ERP data → validated star schema, SQL KPI layer, versioned commission engine, variance decomposition and an executive dashboard. <b>Python · SQL · Power BI</b></sub>
 </td>
@@ -50,17 +50,17 @@ commission and incentive design · cohort and portfolio analysis · executive re
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="https://github.com/mostafahalafawi/microfinance-loan-portfolio-dashboard"><img src="images/microfinance.png" alt="Microfinance Loan Portfolio"></a>
+<a href="https://github.com/mostafahalafawi/microfinance-loan-portfolio-dashboard"><img src="microfinance.png" alt="Microfinance Loan Portfolio"></a>
 <b><a href="https://github.com/mostafahalafawi/microfinance-loan-portfolio-dashboard">Microfinance Loan Portfolio</a></b><br>
 <sub>Portfolio at risk (PAR), collections, branch and loan-officer risk</sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/mostafahalafawi/marketing-campaign-performance-dashboard"><img src="images/marketing.png" alt="Marketing Campaign Performance"></a>
+<a href="https://github.com/mostafahalafawi/marketing-campaign-performance-dashboard"><img src="marketing.png" alt="Marketing Campaign Performance"></a>
 <b><a href="https://github.com/mostafahalafawi/marketing-campaign-performance-dashboard">Marketing Campaign Performance</a></b><br>
 <sub>Spend, ROAS, CAC and channel funnel</sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/mostafahalafawi/hr-workforce-analytics-dashboard"><img src="images/hr.png" alt="HR Workforce Analytics"></a>
+<a href="https://github.com/mostafahalafawi/hr-workforce-analytics-dashboard"><img src="hr.png" alt="HR Workforce Analytics"></a>
 <b><a href="https://github.com/mostafahalafawi/hr-workforce-analytics-dashboard">HR Workforce Analytics</a></b><br>
 <sub>Headcount, attrition, engagement and Omanization</sub>
 </td>
@@ -72,17 +72,17 @@ commission and incentive design · cohort and portfolio analysis · executive re
 <table>
 <tr>
 <td width="33%" valign="top">
-<a href="https://github.com/mostafahalafawi/sales-performance-kpi-dashboard"><img src="images/sales_kpi.png" alt="Sales Performance KPIs"></a>
+<a href="https://github.com/mostafahalafawi/sales-performance-kpi-dashboard"><img src="sales_kpi.png" alt="Sales Performance KPIs"></a>
 <b><a href="https://github.com/mostafahalafawi/sales-performance-kpi-dashboard">Sales Performance KPIs</a></b><br>
 <sub>Target achievement, YoY growth, margin and salesperson ranking</sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/mostafahalafawi/financial-performance-dashboard"><img src="images/finance.png" alt="Financial Performance"></a>
+<a href="https://github.com/mostafahalafawi/financial-performance-dashboard"><img src="finance.png" alt="Financial Performance"></a>
 <b><a href="https://github.com/mostafahalafawi/financial-performance-dashboard">Financial Performance</a></b><br>
 <sub>P&L vs budget, EBITDA, cash flow and working capital</sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/mostafahalafawi/travel-booking-analytics-dashboard"><img src="images/travel.png" alt="Travel Booking Analytics"></a>
+<a href="https://github.com/mostafahalafawi/travel-booking-analytics-dashboard"><img src="travel.png" alt="Travel Booking Analytics"></a>
 <b><a href="https://github.com/mostafahalafawi/travel-booking-analytics-dashboard">Travel Booking Analytics</a></b><br>
 <sub>Bookings, GBV, take rate, cancellations and destinations</sub>
 </td>
